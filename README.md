@@ -6,4 +6,4 @@ The map can be viewed [here](https://githubtraining.github.io/pin-me/).
 
 [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
-<a href="http://stackoverflow.com" target="_blank">Hello, world!</a>
+<a href="http://stackoverflow.com" target="_blank" rel="noopener">Hello, world!</a>
